@@ -1,4 +1,4 @@
-# "Extended interaction" support for Python LOGO turtle supports
+# Extended interaction support for Python LOGO turtle supports
 # In time, hopefully allow physical robot, 3D graphics, and VR variations
 # By Brygg Ullmer, Clemson University
 # Begun 2022-08-01
