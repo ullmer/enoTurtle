@@ -61,7 +61,7 @@ def followPattern(patTxt): #follow a command sequence defined by pattern text
         if len(args) == 2: cmd(args[0], args[1])
 
     except:
-      print("Noting + ignoring turtleXi followPattern bug processing", command)
+      print("Noting + ignoring enoTurtle followPattern bug processing", command)
       traceback.print_exc()
 
 ################# exit on click #################
